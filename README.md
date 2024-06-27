@@ -46,7 +46,7 @@
   
 - 💬 Ask me about anything [here](https://github.com/Kyrylo-Chalyi/Kyrylo-Chalyi/issues)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-devking-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kyrylo-Chalyi-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <div align="center">
 
@@ -78,6 +78,6 @@
     />
   </picture>
 
-  ![DevKing's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kyrylo-Chalyi&custom_title=Kyrylo-Chalyi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![Kyrylo-Chalyi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kyrylo-Chalyi&custom_title=Kyrylo-Chalyi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
 </div>
